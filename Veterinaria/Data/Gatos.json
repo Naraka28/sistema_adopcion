@@ -1,0 +1,86 @@
+﻿[
+  {
+    "Nombre": "Michi",
+    "Sexo": "Macho",
+    "Edad": "Joven",
+    "Raza": "Doméstico de pelo corto",
+    "Foto": "gato1.png"
+  },
+  {
+    "Nombre": "Luna",
+    "Sexo": "Hembra",
+    "Edad": "Cachorro",
+    "Raza": "Siamés",
+    "Foto": "gato2.png"
+  },
+  {
+    "Nombre": "Tommy",
+    "Sexo": "Macho",
+    "Edad": "Adulto",
+    "Raza": "Persa",
+    "Foto": "gato3.png"
+  },
+  {
+    "Nombre": "Nina",
+    "Sexo": "Hembra",
+    "Edad": "Adulto",
+    "Raza": "Bengalí",
+    "Foto": "gato4.png"
+  },
+  {
+    "Nombre": "Simba",
+    "Sexo": "Macho",
+    "Edad": "Joven",
+    "Raza": "Maine Coon",
+    "Foto": "gato5.png"
+  },
+  {
+    "Nombre": "Cleo",
+    "Sexo": "Hembra",
+    "Edad": "Adulto",
+    "Raza": "Esfinge",
+    "Foto": "gato6.png"
+  },
+  {
+    "Nombre": "Oliver",
+    "Sexo": "Macho",
+    "Edad": "Cachorro",
+    "Raza": "British Shorthair",
+    "Foto": "gato7.png"
+  },
+  {
+    "Nombre": "Molly",
+    "Sexo": "Hembra",
+    "Edad": "Joven",
+    "Raza": "Ragdoll",
+    "Foto": "gato8.png"
+  },
+  {
+    "Nombre": "Rocky",
+    "Sexo": "Macho",
+    "Edad": "Adulto",
+    "Raza": "Abisinio",
+    "Foto": "gato9.png"
+  },
+  {
+    "Nombre": "Kiara",
+    "Sexo": "Hembra",
+    "Edad": "Adulto",
+    "Raza": "Angora Turco",
+    "Foto": "gato10.png"
+  },
+  {
+    "Nombre": "Chester",
+    "Sexo": "Macho",
+    "Edad": "Adulto",
+    "Raza": "Bosque de Noruega",
+    "Foto": "gato11.png"
+  },
+  {
+    "Nombre": "Mimi",
+    "Sexo": "Hembra",
+    "Edad": "Joven",
+    "Raza": "Oriental de pelo corto",
+    "Foto": "gato12.png"
+  }
+]
