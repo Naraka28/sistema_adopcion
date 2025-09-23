@@ -1,5 +1,7 @@
 ﻿html {
   font-size: 14px;
+  margin: 0
+
 }
 
 @media (min-width: 768px) {
@@ -15,4 +17,16 @@ html {
 
 body {
   margin-bottom: 60px;
+}
+
+.image-background {
+    background-image: url('/images/gato_header.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    min-height: 25vw;
+    margin-left: calc(-50vw + 50%);
+    margin-right: calc(-50vw + 50%);
+    margin-top: -1.5rem; 
 }
