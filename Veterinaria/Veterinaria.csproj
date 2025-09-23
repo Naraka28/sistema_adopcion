@@ -2,16 +2,23 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
   <ItemGroup>
     <None Remove="Data\" />
+    <None Remove="Servicios\" />
+    <None Remove="Validaciones\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="wwwroot\images\" />
+    <Folder Include="Servicios\" />
+    <Folder Include="Validaciones\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\images\" />

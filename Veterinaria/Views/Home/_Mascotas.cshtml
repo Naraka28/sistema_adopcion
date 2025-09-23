@@ -1,0 +1,20 @@
+﻿@model List<Gatos>
+
+<div class="container">
+    <div class="row g-4">
+        @foreach (var gato in Model)
+        {
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                <div class="card h-100">
+                    <img src="@Url.Content("~/images/" + gato.Foto)" class="card-img-top" alt="@gato.Nombre">
+                    <div class="card-body">
+                        <h5 class="card-title">@gato.Nombre</h5>
+                        <p class="card-text">Edad: @gato.Edad <br /> Raza: @gato.Raza <br /> Sexo: @gato.Sexo</p>
+                        <a href="#" class="btn btn-primary">Adoptar</a>
+                        <a href="#" class="btn btn-primary">Ver más</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
