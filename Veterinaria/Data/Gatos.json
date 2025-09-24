@@ -4,83 +4,95 @@
     "Sexo": "Macho",
     "Edad": "Joven",
     "Raza": "Doméstico de pelo corto",
-    "Foto": "gato1.jpeg"
+    "Foto": "gato1.jpeg",
+    "Descripcion": "Soy Michi, curioso y juguetón. Me encanta explorar rincones nuevos y recibir caricias, pero también disfruto de mis siestas tranquilas en el sofá."
   },
   {
     "Nombre": "Luna",
     "Sexo": "Hembra",
     "Edad": "Cachorro",
     "Raza": "Siamés",
-    "Foto": "gato2.jpeg"
+    "Foto": "gato2.jpeg",
+    "Descripcion": "Hola, soy Luna. Soy traviesa y llena de energía. Me gusta perseguir juguetes y descubrir cada rincón de la casa, siempre lista para una aventura."
   },
   {
     "Nombre": "Tommy",
     "Sexo": "Macho",
     "Edad": "Adulto",
     "Raza": "Persa",
-    "Foto": "gato3.jpeg"
+    "Foto": "gato3.jpeg",
+    "Descripcion": "Soy Tommy, elegante y tranquilo. Disfruto de largas siestas y mimos constantes. Soy el compañero perfecto si buscas un gato sereno y confiable."
   },
   {
     "Nombre": "Nina",
     "Sexo": "Hembra",
     "Edad": "Adulto",
     "Raza": "Bengalí",
-    "Foto": "gato4.jpeg"
+    "Foto": "gato4.jpeg",
+    "Descripcion": "Soy Nina, llena de energía y curiosidad. Me gusta trepar, jugar y descubrir cosas nuevas. Si buscas diversión y vitalidad, yo soy la indicada."
   },
   {
     "Nombre": "Simba",
     "Sexo": "Macho",
     "Edad": "Joven",
     "Raza": "Maine Coon",
-    "Foto": "gato5.jpeg"
+    "Foto": "gato5.jpeg",
+    "Descripcion": "Soy Simba, un gigante gentil. Me encanta la compañía, pero también disfruto de mi independencia. Fiel y protector, seré tu amigo leal."
   },
   {
     "Nombre": "Cleo",
     "Sexo": "Hembra",
     "Edad": "Adulto",
     "Raza": "Esfinge",
-    "Foto": "gato6.jpeg"
+    "Foto": "gato6.jpeg",
+    "Descripcion": "Soy Cleo, elegante y única. Me encanta ser el centro de atención, pero también disfruto de momentos de calma. Perfecta para alguien que busca un gato sofisticado."
   },
   {
     "Nombre": "Oliver",
     "Sexo": "Macho",
     "Edad": "Cachorro",
     "Raza": "British Shorthair",
-    "Foto": "gato7.jpeg"
+    "Foto": "gato7.jpeg",
+    "Descripcion": "Hola, soy Oliver. Soy dulce y juguetón, siempre buscando nuevos amigos. Me adapto rápido y adoro recibir cariño, ¡seré tu compañero inseparable!"
   },
   {
     "Nombre": "Molly",
     "Sexo": "Hembra",
     "Edad": "Joven",
     "Raza": "Ragdoll",
-    "Foto": "gato8.jpeg"
+    "Foto": "gato8.jpeg",
+    "Descripcion": "Soy Molly, tierna y relajada. Me encanta acurrucarme en tus brazos y observar tranquilamente lo que pasa a mi alrededor. Ideal para alguien que busca un gato calmado."
   },
   {
     "Nombre": "Rocky",
     "Sexo": "Macho",
     "Edad": "Adulto",
     "Raza": "Abisinio",
-    "Foto": "gato9.jpeg"
+    "Foto": "gato9.jpeg",
+    "Descripcion": "Soy Rocky, curioso y activo. Me encanta trepar y explorar, pero siempre vuelvo por un rato de cariño. Un compañero enérgico y leal."
   },
   {
     "Nombre": "Kiara",
     "Sexo": "Hembra",
     "Edad": "Adulto",
     "Raza": "Angora Turco",
-    "Foto": "gato10.jpeg"
+    "Foto": "gato10.jpeg",
+    "Descripcion": "Soy Kiara, elegante y observadora. Me gusta la tranquilidad y que me dediquen tiempo de calidad. Ideal para quienes buscan un gato con carácter refinado."
   },
   {
     "Nombre": "Chester",
     "Sexo": "Macho",
     "Edad": "Adulto",
     "Raza": "Bosque de Noruega",
-    "Foto": "gato11.jpeg"
+    "Foto": "gato11.jpeg",
+    "Descripcion": "Soy Chester, fuerte y protector. Disfruto de aventuras al aire libre y también de momentos de descanso junto a ti. Fiel y lleno de personalidad."
   },
   {
     "Nombre": "Mimi",
     "Sexo": "Hembra",
     "Edad": "Joven",
     "Raza": "Oriental de pelo corto",
-    "Foto": "gato12.jpeg"
+    "Foto": "gato12.jpeg",
+    "Descripcion": "Soy Mimi, curiosa y sociable. Me encanta jugar y descubrir cosas nuevas, pero también disfruto de acurrucarme cuando llega la calma. Siempre lista para acompañarte."
   }
 ]

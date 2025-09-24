@@ -28,6 +28,25 @@ public class HomeController : Controller
         return View(mascotas);
     }
 
+    public IActionResult Contacto()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult Contacto(Contacto model)
+    {
+        if (!ModelState.IsValid)
+        {
+            return View(model);
+        }
+
+        return RedirectToAction("Index");
+    }
+
+
+
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
