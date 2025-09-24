@@ -1,0 +1,36 @@
+﻿@model Contacto
+@{
+    ViewData["Title"] = "Contacto";
+}
+<h1>Contacta al Protector</h1>
+<h5>Llenar formulario</h5>
+<h5>El protector recibirá tu mensaje y tú tendrás sus datos de contacto en tu correo.</h5>
+<h5>Arreglen una cita para conocer al adoptable.</h5>
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<form asp-action="Contacto">
+    <div class="mb-3">
+        <label for="Nombre" asp-for="Nombre" class="form-label">Nombre</label>
+        <input type="text" asp-for="Nombre" class="form-control" id="Nombre" name="Nombre" />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="Correo" asp-for="Correo" class="form-label">Correo</label>
+        <input type="text" asp-for="Correo" class="form-control" id="Correo" name="Correo" />
+        <span asp-validation-for="Correo" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="Telefono" asp-for="Telefono" class="form-label">Telefono</label>
+        <input type="text" asp-for="Telefono" class="form-control" id="Telefono" name="Telefono" />
+        <span asp-validation-for="Telefono" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</form>
+
+
+
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
