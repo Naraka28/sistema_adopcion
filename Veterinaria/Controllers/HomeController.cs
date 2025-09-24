@@ -16,7 +16,13 @@ public class HomeController : Controller
         this.repositorioGato = repositorioGato;
     }
 
+
     public IActionResult Index()
+    {
+        return View();
+    }
+
+    public IActionResult Privacy()
     {
         return View();
     }
@@ -27,6 +33,7 @@ public class HomeController : Controller
 
         return View(mascotas);
     }
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
